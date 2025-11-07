@@ -1,79 +1,123 @@
-<h1 align="center">👋 Hey there, I'm Sujit Mecwan</h1>
+<!-- https://github.com/sujit1905/sujit1905/blob/main/README.md -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&width=550&lines=🚀+Passionate+MERN+Stack+Developer;🧠+Problem+Solver;💡+Tech+Enthusiast" 
-    alt="Typing Animation" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7EF&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Sujit+Mecwan!;MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
+<h1 align="center">
+  🚀 MERN Stack Developer | React & Node.js Enthusiast
+</h1>
 
-
----
-
-### 💫 About Me:
-- 🌍 I'm from **Anand, Gujarat, India**  
-- 💻 Currently learning and building projects with the **MERN Stack**  
-- 🎯 Focused on improving my **DSA & JavaScript** skills  
-- 🌱 Always exploring **new technologies & tools**  
-- 📫 Reach me at **[mecwansujit@gmail.com](mailto:mecwansujit@gmail.com)**  
-- ⚡ Fun fact: I love building projects that make life easier and more fun!
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-<a href="https://portfolio.sujitmecwan.com/" >
-  <img src="https://img.shields.io/badge/🌐 Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-  &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sujit1905" >
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sujit-mecwan-609734245/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-### 🧠 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VsCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit1905&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://portfolio.sujitmecwan.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F7EF" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/sujit1905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujit-mecwan-609734245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mecwansujit@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
-### 🎯 Goals for 2025
+✨ Passionate MERN Stack Developer crafting scalable and user-friendly web apps  
+✨ Constantly learning and experimenting with new tools and frameworks  
+✨ Strong focus on JavaScript, DSA, and real-world problem-solving  
+✨ Curious by nature — exploring TypeScript, Next.js, and cloud integrations  
 
-- 🚀 Master Next.js and TypeScript  
-- 🧩 Build real-world full-stack apps  
+### Education
+- **BSc in Computer Science** · Anand, Gujarat  
+- **MERN Stack Developer Program** · Red & White Multimedia Institute  
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend:**  
+HTML5 · CSS3 · JavaScript · React.js · Redux · Tailwind CSS · Bootstrap  
+
+**Backend:**  
+Node.js · Express.js · Next.js  
+
+**Database & Tools:**  
+MongoDB · Git · VS Code · Postman · Vercel · Netlify  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Demo |
+| --- | --- | --- | --- |
+| 🧠 **MERN Task Manager** | Full CRUD task app with JWT auth | MongoDB, Express, React, Node | [Live Demo](#) |
+| 🌦️ **Weather Forecast App** | Real-time weather data via OpenWeather API | HTML, CSS, JavaScript | [Try it!](#) |
+| 💬 **ChatSphere** | Real-time chat app using Socket.io | React, Node.js, MongoDB | [Preview](#) |
+| 🗂️ **Portfolio Website** | Modern portfolio showcasing my dev journey | React, Tailwind, Netlify | [Visit](https://portfolio.sujitmecwan.com) |
+
+> Explore more on my [Portfolio](https://portfolio.sujitmecwan.com)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sujit1905&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 2025 Goals
+
+- 🚀 Master **Next.js** & **TypeScript**  
+- 🧩 Build and deploy real-world full-stack apps  
 - 💼 Contribute to open-source projects  
-- 🌍 Collaborate with global developers  
+- 🌍 Collaborate with developers across the globe  
 
 ---
 
-<h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
+## 🔧 Expertise
+
+- Frontend: React.js, Redux, TailwindCSS, JavaScript  
+- Backend: Node.js, Express.js, MongoDB  
+- Tools: Git, VS Code, Figma, Postman, Netlify  
+
+---
+
+## 📬 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujit-mecwan-609734245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio.sujitmecwan.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F7EF" /></a>
+  <a href="mailto:mecwansujit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love solving problems that make life simpler — one function at a time.  
+> Code. Create. Inspire. ✨
+
+---
+
+> _“Consistency and curiosity are the two engines of growth.”_
+
+---
+
+<!-- 
+TIPS:
+- Pin your best project on GitHub.
+- Keep your README evolving as your skills grow.
+- Add screenshots for more engagement.
+-->
