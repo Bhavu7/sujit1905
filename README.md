@@ -66,14 +66,7 @@ MongoDB · Git · VS Code · Postman · Vercel · Netlify
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sujit1905&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=midnight-purple&hide_border=true" width="45%" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=sujit1905&theme=midnight-purple&hide_border=true" width="45%" alt="Contribution Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=midnight-purple&hide_border=true" width="45%" alt="Top Languages" /> </p>
 
 ---
 
